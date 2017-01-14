@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+A new repository is created in the directory. We need to initialize our repository so that we can track all of our versions of our project.
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Staging area acts as an intermediate between working directory and the repository. The staging area gives us the control what are the files we are going to include as part of the commit. 
