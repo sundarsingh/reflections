@@ -10,3 +10,5 @@ How do the diagrams help you visualize the branch structure?
 Diagrams help us to visulaize whether or not a commit is reachable. 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 WHen we merge two branches together we create a single version consisting the changes in both the branches. We represented in the diagram to view the reachability.
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Automatic merging lets Git do the merging. It helps us reducing the amount of time needed to merge two different branches. But if two branches modified the same code then conflict will occur. We need to analyse and do the merging manually.
