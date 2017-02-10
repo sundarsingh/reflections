@@ -2,3 +2,5 @@ When would you want to create a remote repository rather than keeping all your w
 I would want to create respository if I would want to share my code so as others can view my source code. They can pull my project, review it and make changes to add more features or fix bugs. 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 The project in the remote may have been modified by other developers. I may want to view the changes in the remote before they are added to the local repository.
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+When you want to modify repository which you dont have permission you can fork the repository to your profile. Clone is used to copy a repository from a remote to your local computer. We create a branch when we want to implement a new feature or fix a bug. After doing what we want we can then merge this branch with the master branch. 
