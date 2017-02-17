@@ -6,3 +6,5 @@ Describe the differences between forks, clones, and branches. When would you use
 When you want to modify repository which you dont have permission you can fork the repository to your profile. Clone is used to copy a repository from a remote to your local computer. We create a branch when we want to implement a new feature or fix a bug. After doing what we want we can then merge this branch with the master branch. 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 The benefit of having a copy of the last known state of the remote stored locally is we can fetch the new commits to the local remote branch. And then we can merge both local remote branch and master branch.
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Without git and github I would collaborate by manually going through the contents of the source code. I would have to ask what are the changes someone has done. This would be harder for me than the Git or Github.
