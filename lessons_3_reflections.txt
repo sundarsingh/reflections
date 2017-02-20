@@ -8,3 +8,6 @@ What is the benefit of having a copy of the last known state of the remote store
 The benefit of having a copy of the last known state of the remote stored locally is we can fetch the new commits to the local remote branch. And then we can merge both local remote branch and master branch.
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 Without git and github I would collaborate by manually going through the contents of the source code. I would have to ask what are the changes someone has done. This would be harder for me than the Git or Github.
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+I would want to make changes in the seperate branch if I wanted to fix a bug or adding new feature. This allows me to work independently and then by using git fetch I update by master branch before merging. After merging is done in local master I then make a pull request to review the changes. 
+
